@@ -1,0 +1,28 @@
+#content, #sidebar{
+z-index:-1;
+}
+#featured li{
+line-height: 20px;	
+}
+
+#s {
+padding: 4px 6px 4px 4px;
+}
+
+.box_content{
+top:-19px
+}
+
+#tags div.box_content{
+top:-4px;
+}
+.featured_column{
+width:160px;
+}
+
+#the_lead{
+padding-bottom:0;
+}
+
+#blog_links{
+margin-top:-40px;}
