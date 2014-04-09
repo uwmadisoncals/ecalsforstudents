@@ -17,7 +17,7 @@ if ( is_user_logged_in() ) {?>
 </div>
 </div>
 <div id="copywrong">
-&copy; Copyright <?php echo date('Y', time());?>. All rights reserved. <a href="http://www.cals.wisc.edu" target="_blank">College of Agricultural and Life Sciences</a> - <a href="http://www.wisc.edu" target="_blank">University of Wisconsin-Madison</a>.</div>
+&copy; Copyright <?php echo date('Y', time());?>. All rights reserved. <a href="http://www.cals.wisc.edu" target="_blank">College of Agricultural &amp; Life Sciences</a> - <a href="http://www.wisc.edu" target="_blank">University of Wisconsin-Madison</a>.</div>
 </div>
 </div>
 <?php wp_footer(); ?>
