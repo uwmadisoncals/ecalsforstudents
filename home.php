@@ -23,7 +23,7 @@ Template Name: Home Page
                         <?php } else {?>
                             <a title="Permanent Link to <?php the_title(); ?>" href="<?php the_permalink() ?>" rel="bookmark">
                             <!-- default image is: /images/default200x200.jpg -->
-                            <img src="<?php echo bloginfo('template_url'); ?>/images/mortarboard.jpg" alt="<?php the_title(); ?>" />			
+                            <img src="<?php echo bloginfo('template_url'); ?>/images/cals125_logo.jpg" alt="<?php the_title(); ?>" />			
                             </a>
 							
                             
